@@ -2,16 +2,16 @@
 
 ![Repo image](https://repository-images.githubusercontent.com/469355331/4277d3c4-55dc-4624-92e8-a6344f849ec3)
 
-# `AA` Aprendizaje Automático (_Machine Learning_)
+# `SWAP` Servidores Web de Altas Prestaciones
 
-| Nombre                | Aprendizaje Automático                                       |
+| Nombre                | Servidores Web de Altas Prestaciones                         |
 | --------------------- | ------------------------------------------------------------ |
-| Abreviatura           | `AA`                                                         |
+| Abreviatura           | `SWAP`                                                       |
 | Grado correspondiente | Ingeniería Informática                                       |
 | Facultad              | Escuela Técnica Superior de Ingeniería Informática y de Telecomunicación (ETSIIT)  |
 | Universidad           | Universidad de Granada                                       |
-| Departamento          | Ciencias de la Computación e Inteligencia Artificial         |
-| Curso                 | 2020/2021                                                    |
+| Departamento          | Arquitectura y Tecnología de Computadores                    |
+| Curso                 | 2021/2022                                                    |
 
 ### Información
 
